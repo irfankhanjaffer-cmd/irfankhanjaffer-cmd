@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Irfan Khan
 
-<!--
-**irfankhanjaffer-cmd/irfankhanjaffer-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about turning data into insights  
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- 📊 Interested in Data Analysis & Business Intelligence  
+- 🐍 Python | 🧮 SQL | 📈 Power BI  
+- 🗄️ PostgreSQL for database management  
+- 🚀 Currently building real-world data analytics projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming:** Python (Pandas, NumPy, Matplotlib)
+- **Databases:** PostgreSQL, SQL
+- **Visualization:** Power BI
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## 📂 Projects
+- 🛒 **Amazon Customer Engagement Analysis**
+  - Power BI dashboard
+  - PostgreSQL backend
+  - Customer segmentation & engagement scoring
+
+*(More projects coming soon…)*
+
+## 📫 Connect With Me
+- GitHub: https://github.com/irfankhanjaffer-cmd
+- LinkedIn: https://www.linkedin.com/in/irfan-khan-2b620a2b2/?trk=public-profile-join-page
+
+
+
+
+
+
